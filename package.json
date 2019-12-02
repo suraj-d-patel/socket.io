@@ -1,0 +1,12 @@
+{
+  "name": "socket.io-tutorial",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "~4.16.0",
+    "morgan": "~1.9.0"
+  }
+}
